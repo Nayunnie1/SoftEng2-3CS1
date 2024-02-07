@@ -1,4 +1,5 @@
-+ Problem Scenario
+++Problem Scenario
+  
 Imagine you're developing an e-commerce application where customers create accounts with varying levels of detail.
 
 Initially, you use a standard constructor for the User class:
@@ -12,4 +13,4 @@ Optional fields: Not all customers provide complete information, but the constru
 Data consistency: Changes to user profiles after registration can cause unexpected issues due to mutable fields.
 Implement a solution using the Builder Pattern to address the issue.
 
-+ UML Class Diagram
+++UML Class Diagram
