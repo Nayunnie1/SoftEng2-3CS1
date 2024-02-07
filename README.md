@@ -14,3 +14,5 @@ Data consistency: Changes to user profiles after registration can cause unexpect
 Implement a solution using the Builder Pattern to address the issue.
 
 # UML Class Diagram
+
+![image](https://github.com/Nayunnie1/SoftEng2-3CS1/assets/58744536/7e99a49f-add6-4d8b-9cb0-35f3a8e475e4)
